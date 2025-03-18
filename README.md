@@ -45,6 +45,10 @@ cd city-tour
 - **Gaming**: Serve as a prototype for a city-building or exploration game.
 - **Virtual Real Estate**: Allow users to explore properties or developments in a virtual environment.
 
+## Screenshots
+![My Image](my-image.png)
+![My Image](my-image.png)
+![My Image](my-image.png)
 ## Contributing
 Contributions are welcome! If you'd like to contribute:
 
