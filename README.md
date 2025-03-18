@@ -44,3 +44,21 @@ cd city-tour
 - **Education**: Teach students about urban planning, architecture, or history.
 - **Gaming**: Serve as a prototype for a city-building or exploration game.
 - **Virtual Real Estate**: Allow users to explore properties or developments in a virtual environment.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute:
+
+- Fork the repository.
+
+- Create a new branch (git checkout -b feature/YourFeature).
+
+- Commit your changes (git commit -m 'Add some feature').
+
+- Push to the branch (git push origin feature/YourFeature).
+
+- Open a pull request.
+
+Please ensure your code follows the project's coding standards and includes documentation where necessary.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
