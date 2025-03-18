@@ -16,6 +16,34 @@ This is a Unity-based fully immersive 3D experience of a virtual city, featuring
 - **WebVR** : Used for showcasing the entire project in a VR environment.
 - Scripting: C# scripts for interactivity, animations, and UI.
 
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone the Repository:
+
+'''bash
+Copy
+git clone https://github.com/your-username/3d-city-walkthrough.git
+cd 3d-city-walkthrough
+'''
+2. Open in Unity:
+
+Ensure you have Unity Hub and Unity (version X.X.X or later) installed.
+
+3. Open the project in Unity by selecting the cloned folder.
+
+4. Install Dependencies:
+
+If using external assets, import them via the Unity Asset Store or Package Manager.
+
+5. Build and Run:
+
+Go to File > Build Settings.
+
+Select your target platform (e.g., PC, WebGL).
+
+Click Build and Run.
+
 To get started with this project, we followed these steps:
 Cloned the repository to our local machine.
 Opened the project in Unity.
