@@ -10,7 +10,7 @@ This is a Unity-based fully immersive 3D experience of a virtual city, featuring
 - **Cross-Platform Support**: Designed for [PC, WebGL, VR, etc.].
 
 ## Technical Details
-- **Unity 3D**: Built using Unity 3D.
+- **Unity 3D**: Built using Unity 3D (version: 2022.3).
 - **3D Models**: Imported from Blender, Maya, or SketchUp, or sourced from asset stores.
 - **Post-Processing** : Effects like bloom, anti-aliasing, and color grading.
 - **WebVR** : Used for showcasing the entire project in a VR environment.
@@ -27,7 +27,7 @@ cd city-tour
 ```
 
 2. **Open in Unity:**
- - Ensure you have Unity Hub and Unity installed.
+ - Ensure you have Unity Hub and Unity (Unity 2022.3 or higher) installed.
 
 3. **Open the project in Unity by selecting the cloned folder.**
 
@@ -35,19 +35,12 @@ cd city-tour
 
 - If using external assets, import them via the Unity Asset Store or Package Manager.
 
-5. **Build and Run:**
-
-- Go to File > Build Settings.
-
-- Select your target platform (e.g., PC, WebGL).
-
-- Click Build and Run.
-
-To get started with this project, we followed these steps:
-Cloned the repository to our local machine.
-Opened the project in Unity.
-Navigate to the "Scenes" folder and selected the scene we wanted to work on.
-Used the tools and features provided to create our walkthrough of a city.
-
-Requirements
-Unity 2019.4 or higher
+5. **Run:**
+- Navigate to the "Scenes" folder and selected the scene we wanted to work on.
+- Use WASD or arrow keys to move
+  
+## Use Cases
+- **Tourism Promotion**: Showcase a real city to attract tourists.
+- **Education**: Teach students about urban planning, architecture, or history.
+- **Gaming**: Serve as a prototype for a city-building or exploration game.
+- **Virtual Real Estate**: Allow users to explore properties or developments in a virtual environment.
