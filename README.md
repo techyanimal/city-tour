@@ -1,7 +1,7 @@
 
-City Tour: VR City using Unity
+# City Tour: VR City using Unity
 
-This project is a Unity-based architectural visualization tool that allows users to analyze designs and make related decisions before the actual building is constructed. The project is designed to be user-friendly and easy to navigate, with a range of features that make it ideal for architects, designers, and other professionals in the construction industry.
+This is a Unity-based fully immersive 3D experience of a virtual city, featuring imported 3D models of buildings, landmarks, and environmental assets. The walkthrough allows users to explore a detailed and interactive representation of a city. The experience is designed to simulate a real-world environment, offering users the freedom to navigate and interact with key points of interest.
 
 Features
 3D modeling and visualization tools
