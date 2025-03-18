@@ -29,13 +29,13 @@ cd 3d-city-walkthrough
 
 2. **Open in Unity:**
 
-- Ensure you have Unity Hub and Unity (version X.X.X or later) installed.
+- - Ensure you have Unity Hub and Unity (version X.X.X or later) installed.
 
 3. **Open the project in Unity by selecting the cloned folder.**
 
 4. **Install Dependencies:**
 
-- If using external assets, import them via the Unity Asset Store or Package Manager.
+- - If using external assets, import them via the Unity Asset Store or Package Manager.
 
 5. **Build and Run:**
 
