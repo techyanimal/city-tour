@@ -22,7 +22,6 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
 
 ```bash
-Copy
 git clone https://github.com/your-username/3d-city-walkthrough.git
 cd 3d-city-walkthrough
 ```
