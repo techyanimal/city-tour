@@ -19,14 +19,15 @@ This is a Unity-based fully immersive 3D experience of a virtual city, featuring
 ## Installation
 To run this project locally, follow these steps:
 
-1. Clone the Repository:
+1. **Clone the Repository:**
 
 '''bash
 Copy
 git clone https://github.com/your-username/3d-city-walkthrough.git
 cd 3d-city-walkthrough
 '''
-2. Open in Unity:
+
+**2. Open in Unity:**
 
 Ensure you have Unity Hub and Unity (version X.X.X or later) installed.
 
