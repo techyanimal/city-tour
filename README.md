@@ -9,6 +9,12 @@ This is a Unity-based fully immersive 3D experience of a virtual city, featuring
 - **User-Friendly Interface**: Clean UI with a mini-map, settings, and tooltips.
 - **Cross-Platform Support**: Designed for [PC, WebGL, VR, etc.].
 
+## Technical Details
+- **Unity Version**: Built using Unity 3D (version X.X.X).
+- **3D Models**: Imported from Blender, Maya, or SketchUp, or sourced from asset stores.
+- **Post-Processing** : Effects like bloom, anti-aliasing, and color grading.
+- **WebVR** : Used for showcasing the entire project in a VR environment.
+- Scripting: C# scripts for interactivity, animations, and UI.
 
 To get started with this project, we followed these steps:
 Cloned the repository to our local machine.
