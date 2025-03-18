@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
 
 ```bash
-[git clone https://github.com/your-username/3d-city-walkthrough.git](https://github.com/techyanimal/city-tour.git)
+git clone https://github.com/techyanimal/city-tour.git
 cd 3d-city-walkthrough
 ```
 
