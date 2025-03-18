@@ -34,7 +34,7 @@ cd 3d-city-walkthrough
 
 4. **Install Dependencies:**
 
-- - If using external assets, import them via the Unity Asset Store or Package Manager.
+- If using external assets, import them via the Unity Asset Store or Package Manager.
 
 5. **Build and Run:**
 
