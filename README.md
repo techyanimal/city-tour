@@ -16,6 +16,13 @@ This is a Unity-based fully immersive 3D experience of a virtual city, featuring
 - **WebVR** : Used for showcasing the entire project in a VR environment.
 - Scripting: C# scripts for interactivity, animations, and UI.
 
+## Screenshots
+![My Image](2.png)
+![My Image](3.png)
+![My Image](1.png)
+![My Image](4.png)
+![My Image](5.png)
+
 ## Installation
 To run this project locally, follow these steps:
 
@@ -45,12 +52,6 @@ cd city-tour
 - **Gaming**: Serve as a prototype for a city-building or exploration game.
 - **Virtual Real Estate**: Allow users to explore properties or developments in a virtual environment.
 
-## Screenshots
-![My Image](2.png)
-![My Image](3.png)
-![My Image](1.png)
-![My Image](4.png)
-![My Image](5.png)
 ## Contributing
 Contributions are welcome! If you'd like to contribute:
 
